@@ -3,3 +3,4 @@
 *.bak
 .env
 __pycache__/
+backups/
